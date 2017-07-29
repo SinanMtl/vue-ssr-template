@@ -1,4 +1,6 @@
 # vue-ssr-template
+[![npm version](https://badge.fury.io/js/vue-ssr-template.svg)](https://www.npmjs.com/package/vue-ssr-template)
+[![npm](https://img.shields.io/npm/dt/vue-ssr-template.svg)](https://www.npmjs.com/package/vue-ssr-template)
 
 > A Vue.js CLI template for SSR (server-side rendering). This template inspired by Vue HN
 
