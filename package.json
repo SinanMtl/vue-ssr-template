@@ -1,5 +1,5 @@
 {
-  "name": "vue-ssr",
+  "name": "vue-ssr-template",
   "version": "1.0.0",
   "description": "A simple Vue.js CLI template for server-side rendering.",
   "main": "./meta.json",
