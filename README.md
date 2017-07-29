@@ -1,6 +1,6 @@
 # vue-ssr-template
 
-> A Vue.js CLI template for SSR (server-side rendering).
+> A Vue.js CLI template for SSR (server-side rendering). This template inspired by Vue HN
 
 ## Documentation
 - [For Vue 2.0](http://vuejs.org/guide/): general information about how to work with Vue, not specific to this template
