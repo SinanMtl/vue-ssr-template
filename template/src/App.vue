@@ -1,7 +1,6 @@
 <template lang="pug">
   #app
     img(src="./assets/logo.png")
-    img(src="/public/logo-48.png")
     transition(name="fade", mode="out-in")
       router-view.view
 </template>
