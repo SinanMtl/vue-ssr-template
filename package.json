@@ -21,5 +21,8 @@
     "render"
   ],
   "author": "Sinan Mutlu (SinanMtl)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  }
 }
