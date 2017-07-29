@@ -1,0 +1,25 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "A simple Vue.js CLI template for server-side rendering.",
+  "main": "./meta.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinanMtl/vue-ssr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SinanMtl/vue-ssr/issues"
+  },
+  "homepage": "https://github.com/SinanMtl/vue-ssr#readme",
+  "keywords": [
+    "vue",
+    "cli",
+    "template",
+    "ssr",
+    "server",
+    "rendering",
+    "render"
+  ],
+  "author": "Sinan Mutlu (SinanMtl)",
+  "license": "MIT"
+}
